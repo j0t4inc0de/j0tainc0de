@@ -13,10 +13,10 @@ Ingeniero en Informática (Sello Innovación 2025), apasionado por el código li
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=j0t4inc0de&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+“No importa lo fuerte que seas. Todos necesitamos ayuda a veces.”
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=j0t4inc0de&limit=5&theme=dark&combine_all_yearly_contributions=true)
+https://github.com/j0t4inc0de/smartlend
 
 ---
 [![](https://komarev.com/ghpvc/?username=j0t4inc0de&icon=1&color=1)](https://visitcount.itsvg.in)
